@@ -857,7 +857,7 @@ namespace PredatorPrey
             Console.WriteLine();
         }
     }
-
+#
     class Rabbit : Animal
     {
         enum Genders
